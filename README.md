@@ -1,7 +1,12 @@
 A minimal canvas library which can do almost nothing.
 
-# Usage
+# Feature
 
+ * Object management
+ * Redrawing
+ * Mouse input(only mouseover)
+
+# Usage
 
 ## Define Sprite
 
